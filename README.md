@@ -13,13 +13,21 @@ From backups and user management to resource monitoring and security audits, the
 ## 🔥 Features
 
 ✔️ Automate daily system tasks
+
 ✔️ Monitor CPU, RAM, Disk, and Processes
+
 ✔️ Manage users and permissions efficiently
+
 ✔️ Perform backups and restore operations
+
 ✔️ Clean logs and optimize storage
+
 ✔️ Diagnose network connectivity issues
+
 ✔️ Check system security and failed login attempts
+
 ✔️ Schedule tasks with cron automation
+
 ✔️ Generate system health reports
 
 ---
